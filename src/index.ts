@@ -1,6 +1,6 @@
 import childProcess from 'child_process'
 import GhClonerRepoList from './value_object/gh_cloner_repo_list'
-import CurrentDirectory from './value_object/current_direntries'
+import CurrentDirectory from './value_object/current_directory'
 
 /**
  * @description
